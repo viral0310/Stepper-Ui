@@ -1,0 +1,12 @@
+String editYourProfile = "Edit Your Profile";
+String profilePicture = "Profile Picture";
+String name = "Name";
+String phone = "Phone";
+String email = "Email";
+String dob = "DOB";
+String gender = "Gender";
+String currentLocation = "Current Location";
+String nationalities = "Notionalities";
+String relegion = "Relegion";
+String languages = "Languages";
+String biography = "Biography";
